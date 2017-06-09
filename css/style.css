@@ -180,4 +180,15 @@ footer{
 	padding-top: 85px;
 	color: #A59F68;
 }
-
+/**COMPONENTES**/
+/**MODAL**/
+.thrid-section .ajuste-caja-easy .modal .modal-title{
+	color: grey;
+}
+/**COLLAPSE**/
+.well{
+	background-color: #41521F;
+}
+.well p{
+	color: white;
+}
